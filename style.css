@@ -1,0 +1,70 @@
+body {
+  background-image: url("pexels-hasan-albari-1229861.jpg");
+}
+
+.container {
+  padding: 10px;
+  border-radius: 1em;
+  height: 450px;
+  width: 350px;
+  margin: auto;
+  background-color: #191b28;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.button {
+  width: 66px;
+  padding:20px ;
+  margin: 0 3px;
+  border :2px solid black;
+  font-size: 25px;
+  border-radius: 50%;
+  cursor: pointer;
+  background-color: gray;
+}
+
+.row {
+  margin: 8px 0;
+}
+.row input {
+  font-family: 'Orbitron', sans-serif;
+  text-align:end;
+  width: 227px;
+  font-size: 30px;
+  margin: 0;
+  padding: 15px 0;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.text{
+  text-align: center;
+  color: aliceblue;
+}
+.bg-red{
+  background-color: red;
+}
+
+.mx-auto{
+  margin: auto;
+}
+
+.flex {
+display: flex;
+}
+.flex-col{
+  flex-direction: column;
+}
+.items-center{
+  align-items: center;
+}
+
+.clear{
+  background-color: khaki;
+  border-radius: 5px;
+}
+.equal{
+  background-color: aquamarine;
+}
+
+.operation{
+  background-color: forestgreen;
+}
